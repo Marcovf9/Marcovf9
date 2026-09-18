@@ -1,37 +1,41 @@
-# Hola, soy Marco Vergara Faraon
+# Hi, I'm Marco Vergara Faraon
 
-Desarrollador de software junior. Backend en **Java + Spring Boot**, frontend en **React / TypeScript**.
-Técnico Universitario en Programación (UTN Córdoba). Ciudadano italiano, actualmente en Florencia.
+Junior software developer. Backend in **Java + Spring Boot**, frontend in **React / TypeScript**. Technical Degree in Programming (UTN Córdoba). Italian citizen, currently based in Florence.
 
-Los tres sistemas que hay en este perfil no son ejercicios de práctica: están **en producción, usados a diario por clientes reales**.
+The three systems on this profile aren't practice projects: they're **in production, used daily by real clients**.
 
 ---
 
-### Stack
+## Stack
 
-**Backend** · Java · Spring Boot · Spring Security · JWT · APIs REST
+**Backend** · Java · Spring Boot · Spring Security · JWT · REST APIs
+
 **Frontend** · React · TypeScript · JavaScript · HTML · CSS
-**Datos** · PostgreSQL · MySQL · SQL Server
-**Herramientas** · Docker · Git · Postman · IntelliJ IDEA
+
+**Databases** · PostgreSQL · MySQL · SQL Server
+
+**Tools** · Docker · Git · Postman · IntelliJ IDEA
 
 ---
 
-### Proyectos en producción
+## Projects in production
 
-| Proyecto | Qué es | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [Ritual Espacios](https://github.com/Marcovf9/fabrica-ecommerce) | E-commerce + ERP a medida para una fábrica de mobiliario | Spring Boot · Spring Security · TypeScript · React · Docker |
-| [Epifanía Dance](https://github.com/Marcovf9/sistema-danza) | Gestión integral de una academia de danza | Spring Boot · React · Docker |
-| [Sistema de entradas](https://github.com/Marcovf9/gestion-entradas) | Venta y control de entradas para el show anual de la academia | JavaScript |
+| [Ritual Espacios](https://github.com/Marcovf9/fabrica-ecommerce) | Custom e-commerce + ERP for a furniture manufacturer | Spring Boot · Spring Security · TypeScript · React · Docker |
+| [Epifanía Dance](https://github.com/Marcovf9/sistema-danza) | End-to-end management system for a dance school | Spring Boot · React · Docker |
+| [Ticketing System](https://github.com/Marcovf9/gestion-entradas) | Ticket sales and attendee control for the school's annual show | Java |
+
+I also collaborated on **Balanzero**, an industrial weighbridge control system for tracking materials in and out of a plant — built with another developer using branches, pull requests and code review.
 
 ---
 
-### Idiomas
+## Languages
 
-Español (nativo) · Italiano (C1) · Inglés (B2) · Portugués (A2)
+Spanish (native) · Italian (C1) · English (B2) · Portuguese (A2)
 
 ---
 
-### Contacto
+## Contact
 
-[LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/marco-vergara-faraon-123bb2172)) · [marco.vf18@gmail.com](mailto:marco.vf18@gmail.com)
+[LinkedIn](https://linkedin.com/in/marco-vergara-faraon-123bb2172) · marco.vf18@gmail.com
