@@ -1,7 +1,7 @@
 # Hola, soy Marco Vergara Faraon
 
 Desarrollador de software junior. Backend en **Java + Spring Boot**, frontend en **React / TypeScript**.
-Técnico Universitario en Programación (UTN Córdoba). Ciudadano italiano, actualmente en Palma de Mallorca.
+Técnico Universitario en Programación (UTN Córdoba). Ciudadano italiano, actualmente en Florencia.
 
 Los tres sistemas que hay en este perfil no son ejercicios de práctica: están **en producción, usados a diario por clientes reales**.
 
